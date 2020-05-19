@@ -11,9 +11,7 @@ Code is information in its purest form. And the main criteria for the value of
 information are credibility, accessibility, understandability. 
 
 ## [Slide 3 - pic "monkey at the computer]
-Why credibility and accessibility are important is obvious. Importance of the first and 
-second values is obvious. If the code works with errors or if our server with the application is not available. 
-There is no point in code that works with errors or in an application whose server is not available. 
+Importance of the first and second values is obvious. If the code works with errors or if our server with the application is not available. There is no point in code that works with errors or in an application whose server is not available. 
 Let's try to understand why code understandability is important.
 
 ## [Slide 4 - text "understandability is cool"]
